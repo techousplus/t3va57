@@ -323,27 +323,6 @@
       "epgNumber": "1"
     },
     {
-      "name": "Kanal 7",
-      "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
-      "imageURL": "kanal7.png",
-      "epgID": "Kanal7.tr",
-      "epgNumber": "5"
-    },
-    {
-      "name": "Kanal 7 Avrupa",
-      "streamURL": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8",
-      "imageURL": "kanal7avrupa.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "Ulusal Kanal",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8",
-      "imageURL": "ulusalkanal.png",
-      "epgID": "UlusalKanal.tr",
-      "epgNumber": "1"
-    },
-    {
       "name": "A Haber",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8",
       "imageURL": "A_Haber_logosu.png",
@@ -363,6 +342,27 @@
       "imageURL": "apara.png",
       "epgID": "APara.tr",
       "epgNumber": "5"
+    },
+    {
+      "name": "Ulusal Kanal",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_ulusalkanal/blutv_ulusalkanal.smil/playlist.m3u8",
+      "imageURL": "ulusalkanal.png",
+      "epgID": "UlusalKanal.tr",
+      "epgNumber": "1"
+    },
+    {
+      "name": "Kanal 7",
+      "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+      "imageURL": "kanal7.png",
+      "epgID": "Kanal7.tr",
+      "epgNumber": "5"
+    },
+    {
+      "name": "Kanal 7 Avrupa",
+      "streamURL": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8",
+      "imageURL": "kanal7avrupa.png",
+      "epgID": "",
+      "epgNumber": "0"
     },
     {
       "name": "Teve2",
@@ -421,27 +421,6 @@
       "epgNumber": "5"
     },
     {
-      "name": "BRT 1",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-1",
-      "imageURL": "brt1.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "BRT 2",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
-      "imageURL": "brt2.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "BRT 3",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
-      "imageURL": "brt3.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
       "name": "TV52",
       "streamURL": "https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8",
       "imageURL": "tv52.png",
@@ -470,9 +449,23 @@
       "epgNumber": "0"
     },
     {
-      "name": "TBMM TV",
-      "streamURL": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
-      "imageURL": "tbmmtv.png",
+      "name": "BRT 1",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-1",
+      "imageURL": "brt1.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "BRT 2",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
+      "imageURL": "brt2.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "BRT 3",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
+      "imageURL": "brt3.png",
       "epgID": "",
       "epgNumber": "0"
     },
@@ -494,6 +487,13 @@
       "name": "ER TV",
       "streamURL": "https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8",
       "imageURL": "ertv.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "TBMM TV",
+      "streamURL": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
+      "imageURL": "tbmmtv.png",
       "epgID": "",
       "epgNumber": "0"
     },
