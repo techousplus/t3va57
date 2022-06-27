@@ -241,9 +241,16 @@
     {
       "name": "TGRT Haber",
       "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
-      "imageURL": "tgrthaberlogo.png",
+      "imageURL": "tgrthaber.png",
       "epgID": "TGRTHaber.tr",
       "epgNumber": "5"
+    },
+    {
+      "name": "TGRT EU",
+      "streamURL": "http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8",
+      "imageURL": "tgrteu.png",
+      "epgID": "",
+      "epgNumber": "0"
     },
     {
       "name": "TGRT Belgesel",
@@ -293,6 +300,13 @@
       "imageURL": "kanalb.png",
       "epgID": "",
       "epgNumber": "0"
+    },
+    {
+      "name": "Cem TV",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=cem-tv",
+      "imageURL": "cemtv.png",
+      "epgID": "CemTV.tr",
+      "epgNumber": "5"
     },
     {
       "name": "Bloomberg HT",
@@ -746,6 +760,13 @@
       "name": "Power Love TV",
       "streamURL": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
       "imageURL": "powerlove.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "Power Plus TV",
+      "streamURL": "https://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8",
+      "imageURL": "powerplus.png",
       "epgID": "",
       "epgNumber": "0"
     },
