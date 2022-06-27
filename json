@@ -449,27 +449,6 @@
       "epgNumber": "0"
     },
     {
-      "name": "BRT 1",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-1",
-      "imageURL": "brt1.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "BRT 2",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
-      "imageURL": "brt2.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "BRT 3",
-      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
-      "imageURL": "brt3.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
       "name": "KON TV",
       "streamURL": "https://59cba4d34b678.streamlock.net/canlitv/kontv/playlist.m3u8",
       "imageURL": "kontv.png",
@@ -552,6 +531,27 @@
       "imageURL": "tarımtv.png",
       "epgID": "TarimTV.tr",
       "epgNumber": "5"
+    },
+    {
+      "name": "BRT 1",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-1",
+      "imageURL": "brt1.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "BRT 2",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-2",
+      "imageURL": "brt2.png",
+      "epgID": "",
+      "epgNumber": "0"
+    },
+    {
+      "name": "BRT 3",
+      "streamURL": "http://techouspluslive.orgfree.com/canlitvtoken.php?channel=brt-3",
+      "imageURL": "brt3.png",
+      "epgID": "",
+      "epgNumber": "0"
     },
     {
       "name": "beIN SPORTS HABER",
