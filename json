@@ -254,7 +254,7 @@
     },
     {
       "name": "TGRT Belgesel",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=tgrt-belgesel",
+      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=tgrt-belgesel?m3u8",
       "imageURL": "tgrtbelgesel.png",
       "epgID": "",
       "epgNumber": "0"
