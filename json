@@ -254,7 +254,7 @@
     },
     {
       "name": "TGRT Belgesel",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=tgrt-belgesel?m3u8",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=tgrt-belgesel",
       "imageURL": "tgrtbelgesel.png",
       "epgID": "",
       "epgNumber": "0"
@@ -303,7 +303,7 @@
     },
     {
       "name": "Cem TV",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=cem-tv",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=cem-tv",
       "imageURL": "cemtv.png",
       "epgID": "CemTV.tr",
       "epgNumber": "5"
@@ -534,21 +534,21 @@
     },
     {
       "name": "BRT 1",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=brt-1",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-1",
       "imageURL": "brt1.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "BRT 2",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=brt-2",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-2",
       "imageURL": "brt2.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
       "name": "BRT 3",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=brt-3",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=brt-3",
       "imageURL": "brt3.png",
       "epgID": "",
       "epgNumber": "0"
@@ -576,7 +576,7 @@
     },
     {
       "name": "Tivibu Spor",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=tivibu-spor",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=tivibu-spor",
       "imageURL": "tivibuspor.png",
       "epgID": "",
       "epgNumber": "0"
@@ -653,7 +653,7 @@
     },
     {
       "name": "Meltem TV",
-      "streamURL": "http://techouspluslive.epizy.com/canlitvtoken.php?channel=meltem-tv",
+      "streamURL": "http://jq72nh.ueuo.com/qwerty.php?channel=meltem-tv",
       "imageURL": "meltemtv.png",
       "epgID": "MeltemTV.tr",
       "epgNumber": "5"
