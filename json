@@ -659,13 +659,6 @@
       "epgNumber": "5"
     },
     {
-      "name": "Akıllı TV",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8",
-      "imageURL": "akıllıtv.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
       "name": "Minika GO",
       "streamURL": "https://securevideotoken.tmgrup.com.tr/webtv/secure?url=https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8",
       "imageURL": "minikago.png",
@@ -685,6 +678,13 @@
       "imageURL": "cartoonnetwork.png",
       "epgID": "CartoonNetworkTurkey.tr",
       "epgNumber": "1"
+    },
+    {
+      "name": "Akıllı TV",
+      "streamURL": "http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8",
+      "imageURL": "akıllıtv.png",
+      "epgID": "",
+      "epgNumber": "0"
     },
     {
       "name": "Number One TV",
@@ -737,7 +737,7 @@
     },
     {
       "name": "Power TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_power2/live.m3u8",
+      "streamURL": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8",
       "imageURL": "powertv.png",
       "epgID": "PowerTV.tr",
       "epgNumber": "5"
