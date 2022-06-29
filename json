@@ -205,7 +205,7 @@
     },
     {
       "name": "TV8",
-      "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8",
+      "streamURL": "https://tv8m3u8.herokuapp.com",
       "imageURL": "tv8logo.png",
       "epgID": "TV8.tr",
       "epgNumber": "5"
@@ -578,13 +578,6 @@
       "name": "Tivibu Spor",
       "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tivibu-spor",
       "imageURL": "tivibuspor.png",
-      "epgID": "",
-      "epgNumber": "0"
-    },
-    {
-      "name": "CBC Sport",
-      "streamURL": "https://59c7ea6bec1c6.streamlock.net/filbox/cbcsport.stream/playlist.m3u8",
-      "imageURL": "cbcsport.png",
       "epgID": "",
       "epgNumber": "0"
     },
