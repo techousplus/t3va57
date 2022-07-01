@@ -555,7 +555,7 @@
     },
     {
       "name": "beIN SPORTS HABER",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=bein-sports-haber",
+      "streamURL": "r2vPH7d-_V8",
       "imageURL": "beinsportshaber.png",
       "epgID": "beINSportsHaber.tr",
       "epgNumber": "1"
@@ -601,6 +601,13 @@
       "imageURL": "taytv.png",
       "epgID": "TAYTV.tr",
       "epgNumber": "2"
+    },
+    {
+      "name": "TJK TV",
+      "streamURL": "https://tjktv-live.tjk.org/tjktv.m3u8",
+      "imageURL": "tjktv.png",
+      "epgID": "TJKTV.tr",
+      "epgNumber": "1"
     },
     {
       "name": "Diyanet TV",
