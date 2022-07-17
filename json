@@ -247,7 +247,7 @@
     },
     {
       "name": "TGRT EU",
-      "streamURL": "hhttps://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tgrt-eu",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tgrt-eu",
       "imageURL": "tgrteu.png",
       "epgID": "",
       "epgNumber": "0"
