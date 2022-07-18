@@ -247,7 +247,7 @@
     },
     {
       "name": "TGRT EU",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/TgrtEu/playlist.m3u8",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=tgrt-eu",
       "imageURL": "tgrteu.png",
       "epgID": "",
       "epgNumber": "0"
@@ -674,7 +674,7 @@
     },
     {
       "name": "Akıllı TV",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=akilli-tv",
       "imageURL": "akıllıtv.png",
       "epgID": "",
       "epgNumber": "0"
