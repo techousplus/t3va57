@@ -674,7 +674,7 @@
     },
     {
       "name": "Akıllı TV",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=akilli-tv",
+      "streamURL": "http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8",
       "imageURL": "akıllıtv.png",
       "epgID": "",
       "epgNumber": "0"
