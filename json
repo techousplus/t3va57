@@ -177,7 +177,7 @@
     },
     {
       "name": "Star TV",
-      "streamURL": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
+      "streamURL": "https://startv.blutv.com/blutv_startv_live/live.m3u8",
       "imageURL": "startv.png",
       "epgID": "StarTV.tr",
       "epgNumber": "1"
@@ -674,7 +674,7 @@
     },
     {
       "name": "Akıllı TV",
-      "streamURL": "http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=akilli-tv",
       "imageURL": "akıllıtv.png",
       "epgID": "",
       "epgNumber": "0"
