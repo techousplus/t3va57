@@ -156,14 +156,14 @@
     },
     {
       "name": "Show TV",
-      "streamURL": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showtv.com.tr/canli-yayin",
       "imageURL": "showtv.png",
       "epgID": "ShowTV.tr",
       "epgNumber": "5"
     },
     {
       "name": "Show Türk",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.showturk.com.tr/canli-yayin/showturk",
       "imageURL": "showturk.png",
       "epgID": "",
       "epgNumber": "0"
@@ -261,7 +261,7 @@
     },
     {
       "name": "Habertürk",
-      "streamURL": "https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8",
+      "streamURL": "https://techouslivesqueryalt.herokuapp.com/iptv-query?streaming-ip=https://www.haberturk.com/canliyayin",
       "imageURL": "haberturk-logo.png",
       "epgID": "Haberturk.tr",
       "epgNumber": "1"
