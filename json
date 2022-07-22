@@ -415,7 +415,7 @@
     },
     {
       "name": "Bengü Türk",
-      "streamURL": "KFWs28pMypk",
+      "streamURL": "https://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8",
       "imageURL": "benguturk.png",
       "epgID": "BenguturkTV.tr",
       "epgNumber": "5"
