@@ -631,16 +631,16 @@
       "epgNumber": "0"
     },
     {
-      "name": "Rehber TV",
-      "streamURL": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8",
-      "imageURL": "rehbertv.png",
+      "name": "Berat TV",
+      "streamURL": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
+      "imageURL": "berattv.png",
       "epgID": "",
       "epgNumber": "0"
     },
     {
-      "name": "Berat TV",
-      "streamURL": "https://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
-      "imageURL": "berattv.png",
+      "name": "Rehber TV",
+      "streamURL": "https://yayin30.haber100.com/live/rehbertv/playlist.m3u8",
+      "imageURL": "rehbertv.png",
       "epgID": "",
       "epgNumber": "0"
     },
