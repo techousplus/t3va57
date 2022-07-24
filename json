@@ -536,15 +536,15 @@
       "name": "BRT 1",
       "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=brt-1",
       "imageURL": "brt1.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BRT1.cy",
+      "epgNumber": "5"
     },
     {
       "name": "BRT 2",
       "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=brt-2",
       "imageURL": "brt2.png",
-      "epgID": "",
-      "epgNumber": "0"
+      "epgID": "BRT2.cy",
+      "epgNumber": "5"
     },
     {
       "name": "BRT 3",
