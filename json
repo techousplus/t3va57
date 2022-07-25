@@ -198,7 +198,7 @@
     },
     {
       "name": "Tele 1",
-      "streamURL": "n7nY9ooEJ-8",
+      "streamURL": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
       "imageURL": "tele1.png",
       "epgID": "Tele1.tr",
       "epgNumber": "1"
