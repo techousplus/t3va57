@@ -681,7 +681,7 @@
     },
     {
       "name": "Number One TV",
-      "streamURL": "nBYaiqSDHOA",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
       "imageURL": "nr1.png",
       "epgID": "Number1TV.tr",
       "epgNumber": "5"
