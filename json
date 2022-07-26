@@ -555,7 +555,7 @@
     },
     {
       "name": "beIN SPORTS HABER",
-      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=bein-sports-haber",
+      "streamURL": "rcb7p-m8lZ8",
       "imageURL": "beinsportshaber.png",
       "epgID": "beINSportsHaber.tr",
       "epgNumber": "1"
