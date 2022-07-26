@@ -513,7 +513,7 @@
     },
     {
       "name": "Çiftçi TV",
-      "streamURL": "TJzKgyobGhM",
+      "streamURL": "http://yerelmedya.tv:1935/ciftcitv/bant1/playlist.m3u8",
       "imageURL": "ciftcitv.png",
       "epgID": "CiftciTV.tr",
       "epgNumber": "5"
