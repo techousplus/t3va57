@@ -142,7 +142,7 @@
     },
     {
       "name": "FOX TV",
-      "streamURL": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
+      "streamURL": "https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8",
       "imageURL": "foxtv.png",
       "epgID": "FoxTurkey.us",
       "epgNumber": "1"
@@ -191,14 +191,14 @@
     },
     {
       "name": "Haber Global",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8",
+      "streamURL": "https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8",
       "imageURL": "haberglobal.png",
       "epgID": "HaberGlobal.tr",
       "epgNumber": "1"
     },
     {
       "name": "Tele 1",
-      "streamURL": "https://tele1.blutv.com/blutv_tele1_live/live.m3u8",
+      "streamURL": "https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8",
       "imageURL": "tele1.png",
       "epgID": "Tele1.tr",
       "epgNumber": "1"
@@ -289,7 +289,7 @@
     },
     {
       "name": "Beyaz TV",
-      "streamURL": "https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8",
+      "streamURL": "https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8",
       "imageURL": "beyaztv.png",
       "epgID": "BeyazTV.tr",
       "epgNumber": "5"
@@ -352,7 +352,7 @@
     },
     {
       "name": "Kanal 7",
-      "streamURL": "https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8",
+      "streamURL": "https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8",
       "imageURL": "kanal7.png",
       "epgID": "Kanal7.tr",
       "epgNumber": "5"
