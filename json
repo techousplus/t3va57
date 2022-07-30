@@ -680,41 +680,6 @@
       "epgNumber": "0"
     },
     {
-      "name": "Number One TV",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_nr12/live.m3u8",
-      "imageURL": "nr1.png",
-      "epgID": "Number1TV.tr",
-      "epgNumber": "5"
-    },
-    {
-      "name": "Number One Türk",
-      "streamURL": "https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8",
-      "imageURL": "nr1turk.png",
-      "epgID": "Number1Turk.tr",
-      "epgNumber": "5"
-    },
-    {
-      "name": "Number One Dance",
-      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8",
-      "imageURL": "nr1dance.png",
-      "epgID": "Number1Dance.tr",
-      "epgNumber": "5"
-    },
-    {
-      "name": "Number One Damar",
-      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8",
-      "imageURL": "nr1damar.png",
-      "epgID": "Number1Damar.tr",
-      "epgNumber": "5"
-    },
-    {
-      "name": "Number One Aşk",
-      "streamURL": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8",
-      "imageURL": "nr1ask.png",
-      "epgID": "Number1Ask.tr",
-      "epgNumber": "5"
-    },
-    {
       "name": "Kral TV",
       "streamURL": "https://dogus-live.daioncdn.net/kraltv/playlist.m3u8",
       "imageURL": "kraltv.png",
