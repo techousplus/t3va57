@@ -170,7 +170,7 @@
     },
     {
       "name": "Show Max",
-      "streamURL": "https://techouslivesquery.herokuapp.com/iptv-query?streaming-ip=http://www.showmax.com.tr/canliyayin",
+      "streamURL": "https://europe-west3-techous-plus-live-354616.cloudfunctions.net/techouslivetoken?channel=show-max",
       "imageURL": "showmax.png",
       "epgID": "ShowMax.tr",
       "epgNumber": "3"
@@ -226,7 +226,7 @@
     },
     {
       "name": "Halk TV",
-      "streamURL": "T7oQa6FRJZ0",
+      "streamURL": "https://halktv-live.ercdn.net/halktv/halktv.m3u8",
       "imageURL": "halktv.png",
       "epgID": "HalkTV.tr",
       "epgNumber": "1"
